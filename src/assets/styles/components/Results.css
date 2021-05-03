@@ -1,0 +1,15 @@
+.results {
+  width: auto;
+  background-color: white;
+}
+
+.results ul {
+  margin: 0;
+  padding: 0;
+}
+
+@media (min-width: 800px) {
+  .results {
+    width: 35%;
+  }
+}

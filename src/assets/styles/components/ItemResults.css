@@ -1,0 +1,16 @@
+.ItemResult {
+  margin: 0;
+  padding: 0;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.ItemResult img {
+  height: inherit;
+  object-fit: cover;
+}
+
+.title {
+  font-weight: bold;
+}
