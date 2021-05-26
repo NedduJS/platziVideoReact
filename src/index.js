@@ -76,7 +76,7 @@ const initialState = {
       year: 2017,
       contentRating: '16+',
       duration: 124,
-      cover: 'http://dummyimage.com/800x600.png/CCC539/ffffff',
+      cover: 'http://dummyimage.com/800x600.png/B36F20/ffffff',
       description: 'Vestibulum ac est lacinia nisi venenatis tristique',
       source:
         'http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4',
@@ -90,7 +90,7 @@ const initialState = {
       year: 2011,
       contentRating: '16+',
       duration: 179,
-      cover: 'http://dummyimage.com/800x600.png/FF7A90/ffffff',
+      cover: 'http://dummyimage.com/800x600.png/B36F20/ffffff',
       description: 'Vestibulum ac est lacinia nisi venenatis tristique',
       source:
         'http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4',
